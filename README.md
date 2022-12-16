@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm FAVOUR</h1>
-<h3 align="center">A passionate Software Engineer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer in tranning </h3>
 
-- 🔭 I’m currently working on [Airbnb clone ](https://github.com/favour-22/AirBnB_clone)
+- 🔭 I’m currently a leanning programming at [ALX](https://github.com/favour-22/)
 
-- 🌱 I’m currently learning **Python programming**
+- 🌱 I’m currently learning **BLOCK CHAIN DEVELOPMENT **
 
-- 👨‍💻 All of my projects are available at [https://github.com/favour-22/alx-higher_level_programming](https://github.com/favour-22/)
+- 👨‍💻 All of my projects are available on [MY GITHUB PAGE](https://github.com/favour-22/)
 
 - 📫 How to reach me **anointed657@gmail.com**
 
