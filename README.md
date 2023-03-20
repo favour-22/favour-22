@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently a leanning programming at [ALX](https://github.com/favour-22/)
 
-- 🌱 I’m currently learning **BLOCK CHAIN DEVELOPMENT **
+- 🌱 I’m currently currently **Different Project**
 
 - 👨‍💻 All of my projects are available on [MY GITHUB PAGE](https://github.com/favour-22/)
 
 - 📫 How to reach me **anointed657@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
